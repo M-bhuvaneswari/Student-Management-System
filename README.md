@@ -14,6 +14,12 @@ python main.py
 The admin username is `admin`. Set `ADMIN_PASSWORD` each time you open a new
 terminal session.
 
-Student records and marks are stored under `data/`. Those local `.txt` files
-are intentionally excluded from Git because they may contain personal
-information. The application creates them as records are added.
+The `data/` folder includes sample student accounts and marks for trying the
+application. These are dummy records for demonstration, not real student data.
+The app reads and updates `data/students.txt` and `data/marks.txt`.
+
+For example, the bundled student account with ID `3` can log in using password
+`latha143`.
+
+The admin username is `admin`; choose any demo password by setting
+`ADMIN_PASSWORD` before starting the program.

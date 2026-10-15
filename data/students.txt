@@ -1,0 +1,5 @@
+3,latha,23,CSE,latha@gmail.com,latha143
+4,kala,25,EEE,kala@gmail.com,kala772
+5,jaya,27,ECE,jaya@gmail.com,jaya112
+6,Varnika,22,CSE,varni@gmail.com,varni123
+7,kavin,21,EEE,kavin@gmail.com,kavin247
